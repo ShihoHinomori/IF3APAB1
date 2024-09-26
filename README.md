@@ -22,4 +22,7 @@ for (i=0; i<=10; i++){
 ```
 
 ##### Contoh IF ... ELSE
-
+```dart
+if (true){
+print("hello world");
+}
